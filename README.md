@@ -1,4 +1,4 @@
 AdventureGame
 =============
 
-python text based adventure game
+python programmed text based adventure game
